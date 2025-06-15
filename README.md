@@ -7,7 +7,7 @@
 ## 🎥 Tanıtım Videosu
 
 📺 YouTube Tanıtım Videosu:  
-👉 [Kiralık360 Proje Videosunu İzle]((https://youtu.be/lQmo-TUiHO4))
+👉 [Kiralık360 Proje Videosunu İzle]((https://youtu.be/lQmo-TUiHO4)
 
 ---
 
