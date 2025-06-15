@@ -17,7 +17,7 @@
 ![Giriş](screenshots/giris.png)
 
 ### 📝 Ürün Ekleme
-![Ürün Ekleme](screenshots/urun-ekle.png)
+![Ürün Ekleme](screenshots/urunekleme.png)
 
 
 
