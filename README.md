@@ -14,10 +14,10 @@
 ## 🖼️ Ekran Görüntüleri
 
 ### 🔐 Giriş Ekranı
-![Giriş](screenshots/giris.png)
+![Giriş](giris.png)
 
 ### 📝 Ürün Ekleme
-![Ürün Ekleme](screenshots/urunekleme.png)
+![Ürün Ekleme](urunekleme.png)
 
 
 
